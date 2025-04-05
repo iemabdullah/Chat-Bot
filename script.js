@@ -1,5 +1,5 @@
 const API_KEY = 
-'AIzaSyDlH3WWlG-x3rtAf2oBhUaqTrkCqtV55w4'
+'########################################'
 ; 
 // Replace with your actual Gemini API key – this stores the API key to authenticate requests to the Gemini API.
 
